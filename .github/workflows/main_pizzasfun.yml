@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Pizzasfun'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C799F132EB8145C7B1F9DEF2770D7EA5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B321DC809778460E919BE32CAF9A2C4E }}
           package: .
